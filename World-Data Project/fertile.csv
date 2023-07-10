@@ -1,0 +1,202 @@
+,Unnamed: 0.1,Unnamed: 0,Country,Fertility,ISO-code,continent
+0,0,0,Afghanistan,4.5,AFG,Asia
+1,1,1,Albania,1.6,ALB,Europe
+2,2,2,Algeria,3.0,DZA,Africa
+3,3,3,Andorra,1.3,AND,Europe
+4,4,4,Angola,5.5,AGO,Africa
+5,5,5,Antigua and Barbuda,2.0,ATG,North America
+6,6,6,Argentina,2.3,ARG,South America
+7,7,7,Armenia,1.8,ARM,Asia
+8,8,8,Aruba,1.9,ABW,North America
+9,9,9,Australia,1.7,AUS,Oceania
+10,10,10,Austria,1.5,AUT,Europe
+11,11,11,Azerbaijan,1.7,AZE,Asia
+12,12,12,Bahrain,2.0,BHR,Asia
+13,13,13,Bangladesh,2.0,BGD,Asia
+14,14,14,Barbados,1.6,BRB,North America
+15,15,15,Belarus,1.4,BLR,Europe
+16,16,16,Belgium,1.6,BEL,Europe
+17,17,17,Belize,2.3,BLZ,North America
+18,18,18,Benin,4.8,BEN,Africa
+19,19,19,Bermuda,1.6,BMU,North America
+20,20,20,Bhutan,2.0,BTN,Asia
+21,21,21,Bolivia,2.7,BOL,South America
+22,22,22,Bosnia and Herzegovina,1.3,BIH,Europe
+23,23,23,Botswana,2.9,BWA,Africa
+24,24,24,Brazil,1.7,BRA,South America
+25,25,25,Brunei,1.8,BRN,Asia
+26,26,26,Bulgaria,1.6,BGR,Europe
+27,27,27,Burkina Faso,5.2,BFA,Africa
+28,28,28,Burundi,5.4,BDI,Africa
+29,29,29,Cambodia,2.5,KHM,Asia
+30,30,30,Cameroon,4.6,CMR,Africa
+31,31,31,Canada,1.5,CAN,North America
+32,32,32,Cape Verde,2.3,CPV,Africa
+33,33,33,Central African Republic,4.7,CAF,Africa
+34,34,34,Chad,5.7,TCD,Africa
+35,35,35,Chile,1.6,CHL,South America
+36,36,36,China,1.7,CHN,Asia
+37,37,37,Colombia,1.8,COL,South America
+38,38,38,Comoros,4.2,COM,Africa
+39,39,39,Costa Rica,1.8,CRI,North America
+40,40,40,Croatia,1.5,HRV,Europe
+41,41,41,Cuba,1.6,CUB,North America
+42,42,42,Curacao,1.7,CUW,
+43,43,43,Cyprus,1.3,CYP,Asia
+44,44,44,Czech Republic,1.7,CZE,Europe
+45,45,45,Democratic Republic of the Congo,5.9,COD,Africa
+46,46,46,Denmark,1.7,DNK,Europe
+47,47,47,Djibouti,2.7,DJI,Africa
+48,48,48,Dominica,1.9,DMA,North America
+49,49,49,Dominican Republic,2.3,DOM,North America
+50,50,50,East Timor,4.0,TLS,
+51,51,51,Ecuador,2.4,ECU,South America
+52,52,52,Egypt,3.3,EGY,Africa
+53,53,53,El Salvador,2.0,SLV,North America
+54,54,54,Equatorial Guinea,4.5,GNQ,Africa
+55,55,55,Eritrea,4.1,ERI,Africa
+56,56,56,Estonia,1.7,EST,Europe
+57,57,57,Eswatini,3.0,SWZ,Africa
+58,58,58,Ethiopia,4.2,ETH,Africa
+59,59,59,Faroe Islands,2.5,FRO,Europe
+60,60,60,Fiji,2.8,FJI,Oceania
+61,61,61,Finland,1.4,FIN,Europe
+62,62,62,France,1.9,FRA,Europe
+63,63,63,French Polynesia,1.9,PYF,Oceania
+64,64,64,Gabon,4.0,GAB,Africa
+65,65,65,Georgia,2.1,GEO,Asia
+66,66,66,Germany,1.6,DEU,Europe
+67,67,67,Ghana,3.9,GHA,Africa
+68,68,68,Greece,1.4,GRC,Europe
+69,69,69,Greenland,2.0,GRL,North America
+70,70,70,Grenada,2.1,GRD,North America
+71,71,71,Guam,2.3,GUM,Oceania
+72,72,72,Guatemala,2.9,GTM,North America
+73,73,73,Guinea,4.7,GIN,Africa
+74,74,74,Guinea,4.5,GIN,Africa
+75,75,75,Guyana,2.5,GUY,South America
+76,76,76,Haiti,2.9,HTI,North America
+77,77,77,Honduras,2.5,HND,North America
+78,78,78,Hong Kong,1.1,HKG,Asia
+79,79,79,Hungary,1.6,HUN,Europe
+80,80,80,Iceland,1.7,ISL,Europe
+81,81,81,India,2.2,IND,Asia
+82,82,82,Indonesia,2.3,IDN,Asia
+83,83,83,Iran,2.9,IRN,Asia
+84,84,84,Iraq,3.7,IRQ,Asia
+85,85,85,Ireland,1.8,IRL,Europe
+86,86,86,Isle of Man,1.6,IMN,Europe
+87,87,87,Israel,2.4,ISR,Asia
+88,88,88,Italy,1.3,ITA,Europe
+89,89,89,Ivory Coast,4.6,CIV,Africa
+90,90,90,Jamaica,2.0,JAM,North America
+91,91,91,Japan,1.4,JPN,Asia
+92,92,92,Jordan,2.8,JOR,Asia
+93,93,93,Kazakhstan,2.8,KAZ,Asia
+94,94,94,Kenya,3.5,KEN,Africa
+95,95,95,Kiribati,3.6,KIR,Oceania
+96,96,96,Kuwait,2.1,KWT,Asia
+97,97,97,Kyrgyzstan,3.3,KGZ,Asia
+98,98,98,Laos,2.7,LAO,Asia
+99,99,99,Latvia,1.6,LVA,Europe
+100,100,100,Lebanon,2.1,LBN,Asia
+101,101,101,Lesotho,3.1,LSO,Africa
+102,102,102,Liberia,4.3,LBR,Africa
+103,103,103,Libya,2.2,LBY,Africa
+104,104,104,Liechtenstein,1.6,LIE,Europe
+105,105,105,Lithuania,1.6,LTU,Europe
+106,106,106,Luxembourg,1.4,LUX,Europe
+107,107,107,Macau,1.2,MAC,Asia
+108,108,108,Madagascar,4.1,MDG,Africa
+109,109,109,Malawi,4.2,MWI,Africa
+110,110,110,Malaysia,2.0,MYS,Asia
+111,111,111,Maldives,1.9,MDV,Asia
+112,112,112,Mali,5.9,MLI,Africa
+113,113,113,Malta,1.2,MLT,Europe
+114,114,114,Marshall Islands,4.0,MHL,Oceania
+115,115,115,Mauritania,4.6,MRT,Africa
+116,116,116,Mauritius,1.4,MUS,Africa
+117,117,117,Mexico,2.1,MEX,North America
+118,118,118,Micronesia,3.1,FSM,Oceania
+119,119,119,Moldova,1.3,MDA,Europe
+120,120,120,Mongolia,2.9,MNG,Asia
+121,121,121,Montenegro,1.7,MNE,Europe
+122,122,122,Morocco,3.1,MAR,Africa
+123,123,123,Mozambique,4.9,MOZ,Africa
+124,124,124,Myanmar,2.2,MMR,Asia
+125,125,125,Namibia,3.4,NAM,Africa
+126,126,126,Nepal,1.9,NPL,Asia
+127,127,127,Netherlands,1.6,NLD,Europe
+128,128,128,New Caledonia,2.0,NCL,Oceania
+129,129,129,New Zealand,1.7,NZL,Oceania
+130,130,130,Nicaragua,2.4,NIC,North America
+131,131,131,Niger,5.3,NER,Africa
+132,132,132,Nigeria,5.4,NGA,Africa
+133,133,133,North Korea,1.9,PRK,Asia
+134,134,134,North Macedonia,1.5,MKD,Europe
+135,135,135,Norway,1.6,NOR,Europe
+136,136,136,Oman,2.9,OMN,Asia
+137,137,137,Pakistan,3.5,PAK,Asia
+138,138,138,Palau,2.2,PLW,Oceania
+139,139,139,Panama,2.5,PAN,North America
+140,140,140,Papua New Guinea,3.6,PNG,Oceania
+141,141,141,Paraguay,2.4,PRY,South America
+142,142,142,Peru,2.3,PER,South America
+143,143,143,Philippines,2.6,PHL,Asia
+144,144,144,Poland,1.5,POL,Europe
+145,145,145,Portugal,1.4,PRT,Europe
+146,146,146,Qatar,1.9,QAT,Asia
+147,147,147,Republic of the Congo,4.4,COG,Africa
+148,148,148,Romania,1.8,ROU,Europe
+149,149,149,Russia,1.82,RUS,Europe
+150,150,150,Russia,1.6,RUS,Europe
+151,151,151,Rwanda,4.0,RWA,Africa
+152,152,152,Saint Martin,1.8,MAF,North America
+153,153,153,Samoa,3.9,WSM,Oceania
+154,154,154,San Marino,1.3,SMR,Europe
+155,155,155,Sao Tome and Principe,4.3,STP,Africa
+156,156,156,Saudi Arabia,2.3,SAU,Asia
+157,157,157,Senegal,4.6,SEN,Africa
+158,158,158,Serbia,1.5,SRB,Europe
+159,159,159,Seychelles,2.4,SYC,Africa
+160,160,160,Sierra Leone,4.3,SLE,Africa
+161,161,161,Singapore,1.1,SGP,Asia
+162,162,162,Sint Maarten,2.0,SXM,
+163,163,163,Slovenia,1.6,SVN,Europe
+164,164,164,Solomon Islands,4.4,SLB,Oceania
+165,165,165,Somalia,6.1,SOM,Africa
+166,166,166,South Africa,2.4,ZAF,Africa
+167,167,167,South Korea,1.6,KOR,Asia
+168,168,168,South Sudan,4.7,SSD,Africa
+169,169,169,Spain,1.3,ESP,Europe
+170,170,170,Sri Lanka,2.2,LKA,Asia
+171,171,171,Sudan,4.4,SDN,Africa
+172,172,172,Suriname,2.4,SUR,South America
+173,173,173,Sweden,1.8,SWE,Europe
+174,174,174,Switzerland,1.5,CHE,Europe
+175,175,175,Syria,2.8,SYR,Asia
+176,176,176,Tajikistan,3.6,TJK,Asia
+177,177,177,Tanzania,4.9,TZA,Africa
+178,178,178,Thailand,1.5,THA,Asia
+179,179,179,The Bahamas,1.8,BHS,
+180,180,180,The Gambia,5.2,GMB,
+181,181,181,Togo,4.3,TGO,Africa
+182,182,182,Tonga,3.6,TON,Oceania
+183,183,183,Trinidad and Tobago,1.7,TTO,North America
+184,184,184,Tunisia,2.2,TUN,Africa
+185,185,185,Turkey,2.1,TUR,Asia
+186,186,186,Turkmenistan,2.8,TKM,Asia
+187,187,187,Uganda,5.0,UGA,Africa
+188,188,188,Ukraine,1.3,UKR,Europe
+189,189,189,United Arab Emirates,1.4,ARE,Asia
+190,190,190,United Kingdom,1.7,GBR,Europe
+191,191,191,United States,1.7,USA,North America
+192,192,192,Uruguay,2.0,URY,South America
+193,193,193,Uzbekistan,2.4,UZB,Asia
+194,194,194,Vanuatu,3.8,VUT,Oceania
+195,195,195,Venezuela,2.3,VEN,South America
+196,196,196,Vietnam,2.0,VNM,Asia
+197,197,197,Virgin Islands,2.1,VIR,
+198,198,198,Yemen,3.8,YEM,Asia
+199,199,199,Zambia,4.6,ZMB,Africa
+200,200,200,Zimbabwe,3.6,ZWE,Africa
